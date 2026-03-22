@@ -1,3 +1,4 @@
 CompileFlags:
   Add:
     - -IC:\Users\austi\Documents\Projects\c-game\third-party\raylib\include
+    - -std=c11
